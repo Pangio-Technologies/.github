@@ -1,9 +1,3 @@
-![](./logo.png)
-
-**Des outils de pentesting pour modéliser les menaces émergentes.**
-
----
-
 ## 🤔 Les attaquants changent, les défenses aussi.
 
 La cybersécurité est devenue une des disciplines les plus critiques à maîtriser pour garantir la survie d'une entreprise. Alors que les capacités de cyberdéfense au niveau privé et au niveau étatique se développent, le modèle de menace se déplace progressivement vers celuis d'une guerre asymmétrique où les attaquants arrivent à infliger des pertes considérables avec des moyens dérisoires. Chez Pangio, nous avons la conviction que la sécurité de votre entreprise ne peut être garantie que si cette dernière s'adapte à ce nouveau paradygme.
