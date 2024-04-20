@@ -1,35 +1,21 @@
 ![](./logo.png)
 
-**Hacking tools for hacking nerds**
+**Des outils de pentesting pour modéliser les menaces émergentes.**
 
 ---
 
-## 🤔 Keep penetration testing fun!
+## 🤔 Les attaquants changent, les défenses aussi.
 
-We believe closed-source hacking tools are boring. Penetration testing should be fun, right? Here at Pangio Technologies, we bring you the fun tools you need for your fun job.
+La cybersécurité est devenue une des disciplines les plus critiques à maîtriser pour garantir la survie d'une entreprise. Alors que les capacités de cyberdéfense au niveau privé et au niveau étatique se développent, le modèle de menace se déplace progressivement vers celuis d'une guerre asymmétrique où les attaquants arrivent à infliger des pertes considérables avec des moyens dérisoires. Chez Pangio, nous avons la conviction que la sécurité de votre entreprise ne peut être garantie que si cette dernière s'adapte à ce nouveau paradygme.
 
-## Hardware
+## Plateforme d'Attaque Projetée R1, le Pangio PAP-R1
 
-Pangio Technologies develops the Pangio FAP R1, a forward attack platform that might very well be your next swiss army knife when it comes to on-premises penetration testing.
+Pangio Technologies développe son PAP-R1, une plateforme d'attaque projetée, permettant aux groupes de red-teaming et entreprises de pentesting de modéliser avec fidélité, fiabilité, et rapidité les menaces asymétriques rencontrées aujourd'hui par les acteurs privés.
 
-## Software
+## Suite logicielle Pangio
 
-Not in the mood for a new hacking device? Pangio Technologies publishes all its hacking software right here on GitHub.
+Pangio Technologies offre, en plus de sa plateforme PAP-R1, un service en ligne permettant d'accéder à sa collection logicielle. Reconnaissance, attaques directes, ingestion et exfiltration de données, ou encore auto-destruction des secrets cryptographiques, le PAP-R1 est lourdement équipé pour vous permettre de projeter toutes vos capacités cyber au coeur de votre cible.
 
-## ♀️ Note on protecting women
+## 📝 Nous contacter
 
-Devices with features similar as those of the tools we're developping (Apple Airtags, etc.) have been used in a systemic way in acts of harassment, stalking, and violence against women. Important decisions have to be made regarding what features to implement so as to not endanger women and keep the Pangio a pentesting device.
-
-Pangio Technologies is fully committed to making it as hard as possible for ill-intended people to use its devices against women.
-
-## 📝 Contributions
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md)
-
-## 📝 Code of conduct
-
-See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
-
-## 👩‍💻 Active contributors
-
-Chelsea Murgia <[mail@chelsea486mhz.fr](mailto:mail@chelsea486mhz.fr)>
+Vous pouvez nous contacter par mail à l'adresse suivante: <[contact@pangio.tech](mailto:contact@pangio.tech)>
