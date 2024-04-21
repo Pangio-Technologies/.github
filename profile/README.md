@@ -19,3 +19,19 @@ Pangio Technologies offre, en plus de sa plateforme PAP-R1, un service en ligne 
 ## 📝 Nous contacter
 
 Vous pouvez nous contacter par mail à l'adresse suivante: <[contact@pangio.tech](mailto:contact@pangio.tech)>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+mDMEZiVnVhYJKwYBBAHaRw8BAQdAFqHjPYgv5EgnXgSDDQ+KzFfDrHR2ofpAws8h
+tKuyO+K0KVBhbmdpbyBUZWNobm9sb2dpZXMgPGNvbnRhY3RAcGFuZ2lvLnRlY2g+
+iJkEExYKAEEWIQRri8WASvz63GMmeJ8kJsc2wmr1gwUCZiVnVgIbIwUJBaMWygUL
+CQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRAkJsc2wmr1g6soAP0VwIbVe06N
+FDIKd5FVx6iOte36jdpKZHQGf9H/3AkVOgD/dlyjxIlPcLIQUUDrkFrdFDzUrah3
+382+BGXVVE3qug64OARmJWdWEgorBgEEAZdVAQUBAQdAk1VbwP2Z0YoehlFt8XPU
+hoRz2I7kpVikGuxGGrkjXUADAQgHiH4EGBYKACYWIQRri8WASvz63GMmeJ8kJsc2
+wmr1gwUCZiVnVgIbDAUJBaMWygAKCRAkJsc2wmr1gzasAQCZ829vnTSdhlkKeuz5
+fhZZwLSojTFwasw/yB0uiFfidwEA3bIbcdd5MRYLrywJ57EVUB4xKWK9Xqe+ElP4
+2w/nKwE=
+=w6ko
+-----END PGP PUBLIC KEY BLOCK-----
+```
