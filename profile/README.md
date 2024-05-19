@@ -6,32 +6,32 @@ La cybersécurité est devenue une des disciplines les plus critiques à maîtri
 
 Pangio Technologies développe son PAP-R1, une plateforme d'attaque projetée, permettant aux groupes de red-teaming et entreprises de pentesting de modéliser avec fidélité, fiabilité, et rapidité les menaces asymétriques rencontrées aujourd'hui par les acteurs privés.
 
-## Privacy-Enhanced Rocky Linux, ou Pangio PERL
-
-Pangio Technologies est également investit dans l'intimité de l'information, plus que jamais menacée pour les acteurs personnels. Pangio Technologies développe le système d'exploitation PERL, un OS destiné à protéger les postes nomades des acteurs personnels tels les ordinateurs portables contre les menaces ciblant leur intimité.
-
-Pangio Technologies fournit gratuitement, accompagné de son code source, son système d'exploitation PERL. Pangio Technologies propose également aux acteurs industriels des versions sur-mesure de PERL, envisageant des cas d'usages tels que des rencontres physiques impliquant le transport de données sensibles en dehors de zones, par exemple, à régime restreint.
-
-## Suite logicielle d'attaque Pangio
-
-Pangio Technologies offre, en plus de sa plateforme PAP-R1, un service en ligne permettant d'accéder à sa collection logicielle. Reconnaissance, attaques directes, ingestion et exfiltration de données, ou encore auto-destruction des secrets cryptographiques, le PAP-R1 est lourdement équipé pour vous permettre de projeter toutes vos capacités cyber au coeur de votre cible.
-
 ## 📝 Nous contacter
 
-Vous pouvez nous contacter par mail à l'adresse suivante: <[contact@pangio.tech](mailto:contact@pangio.tech)>
+Vous pouvez nous contacter par mail à l'adresse suivante: <[contact@pangio.tech](mailto:contact@pangio.tech)> ou par Signal ([`@pangio.42`](https://signal.me/#eu/V4_HWoR8QgkXqY2bUVRpRP31z7I7GYPvhb3PaSHIqpu9MDI32qtG8L03nywRktLg)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-mDMEZiVnVhYJKwYBBAHaRw8BAQdAFqHjPYgv5EgnXgSDDQ+KzFfDrHR2ofpAws8h
-tKuyO+K0KVBhbmdpbyBUZWNobm9sb2dpZXMgPGNvbnRhY3RAcGFuZ2lvLnRlY2g+
-iJkEExYKAEEWIQRri8WASvz63GMmeJ8kJsc2wmr1gwUCZiVnVgIbIwUJBaMWygUL
-CQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRAkJsc2wmr1g6soAP0VwIbVe06N
-FDIKd5FVx6iOte36jdpKZHQGf9H/3AkVOgD/dlyjxIlPcLIQUUDrkFrdFDzUrah3
-382+BGXVVE3qug64OARmJWdWEgorBgEEAZdVAQUBAQdAk1VbwP2Z0YoehlFt8XPU
-hoRz2I7kpVikGuxGGrkjXUADAQgHiH4EGBYKACYWIQRri8WASvz63GMmeJ8kJsc2
-wmr1gwUCZiVnVgIbDAUJBaMWygAKCRAkJsc2wmr1gzasAQCZ829vnTSdhlkKeuz5
-fhZZwLSojTFwasw/yB0uiFfidwEA3bIbcdd5MRYLrywJ57EVUB4xKWK9Xqe+ElP4
-2w/nKwE=
-=w6ko
+
+mDMEZjn/shYJKwYBBAHaRw8BAQdAdwtE1f27oOXmmcjeBOb6OJ3vIxARe7BLk3eM
++PwJqo20KVBhbmdpbyBUZWNobm9sb2dpZXMgPGNvbnRhY3RAcGFuZ2lvLnRlY2g+
+iJAEExYIADgWIQRqfdQE+EQkoG8uOJ3R9vTkZSqV9AUCZjn/sgIbAwULCQgHAgYV
+CgkICwIEFgIDAQIeAQIXgAAKCRDR9vTkZSqV9FiXAQDjXLj3WZSEpCPHf7h5XGLu
+cZNirScFd4xTNVrqI5hRRQD+IGVcLg7QhFOIQ8s0UnZ8v9cJ8T8mDicDY1M6MwqE
+6AO4OARmOf+yEgorBgEEAZdVAQUBAQdA9Z9T5mKCx+IC60B5jjCNYeFM1bRVxnqc
+hBidVUr/sWMDAQgHiHgEGBYIACAWIQRqfdQE+EQkoG8uOJ3R9vTkZSqV9AUCZjn/
+sgIbDAAKCRDR9vTkZSqV9H4dAQDb7w5cs871Ol7nzPzYzQy32J7bOT6dBg9X/oak
+mM0w7AEAxPPflcPs1/utO4/4yZBe+lZB4gi5VsCNDsJg2Ta/xgm4MwRmOgBWFgkr
+BgEEAdpHDwEBB0AKS3PFV3e//yhDoLuOKWeJvAJn1CfPcEKOoEV0LBEAmIjvBBgW
+CAAgFiEEan3UBPhEJKBvLjid0fb05GUqlfQFAmY6AFYCGwIAgQkQ0fb05GUqlfR2
+IAQZFggAHRYhBByjgcFxdWSu93gwLP1Hnw/Xki/TBQJmOgBWAAoJEP1Hnw/Xki/T
+/CgBAJgE5BIZHsXyEGt570u/ZVvX8qlJbml5aphPmeDytQYgAQDTlda9ihdLEhN2
+KnEmYRdQaDWvwAeKouLn9UaZzO66BuphAQDHvDuNl0o3cGIsAw4pqB3hDj7Est0h
+aEurJrkcYAq+2wEA89dpJSth/ZKQB3BqoFfoMVTc29EXjQNhOR4866IPUQW4MwRm
+OgBtFgkrBgEEAdpHDwEBB0Bw+X9rHOaa7r+HdkBnAI0SetJz3wM6qeFu/+F1JjIb
+y4h4BBgWCAAgFiEEan3UBPhEJKBvLjid0fb05GUqlfQFAmY6AG0CGyAACgkQ0fb0
+5GUqlfQ06wD+L3M1vRbSSygf6NhiFiqN0PYniORvL1KQLM11Hf55IIkA/1xqQz5X
+t0dNPgJZx7soXizVgo6XgQV6N69RoSobXdMG
+=c3i4
 -----END PGP PUBLIC KEY BLOCK-----
 ```
