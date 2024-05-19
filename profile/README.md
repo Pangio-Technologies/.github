@@ -8,7 +8,7 @@ Pangio Technologies développe son PAP-R1, une plateforme d'attaque projetée, p
 
 ## 📝 Nous contacter
 
-Vous pouvez nous contacter par mail à l'adresse suivante: <[contact@pangio.tech](mailto:contact@pangio.tech)> ou par Signal ([`@pangio.42`](https://signal.me/#eu/V4_HWoR8QgkXqY2bUVRpRP31z7I7GYPvhb3PaSHIqpu9MDI32qtG8L03nywRktLg)
+Vous pouvez nous contacter par mail à l'adresse suivante: <[contact@pangio.tech](mailto:contact@pangio.tech)> ou par Signal [`@pangio.42`](https://signal.me/#eu/V4_HWoR8QgkXqY2bUVRpRP31z7I7GYPvhb3PaSHIqpu9MDI32qtG8L03nywRktLg)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
